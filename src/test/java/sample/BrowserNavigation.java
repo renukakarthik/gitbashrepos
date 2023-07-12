@@ -10,7 +10,7 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.edge.EdgeOptions;
 
 public class BrowserNavigation {
-
+//pull request
 	public static void main(String[] args) {
 		ChromeOptions Option = new ChromeOptions();
 		Option.addArguments("incognito");
